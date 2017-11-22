@@ -1,0 +1,3 @@
+match/function.json
+match/project.json
+match/run.csx
